@@ -4,13 +4,13 @@ This is the individual project3 for the course IDS721. I used XGBoost in AWS Sag
 
 ## Cloud Data System
 
-*** AWS SageMaker ***
+***AWS SageMaker:***
 
-![image](https://github.com/Gary-Zhigang/IDS721_Project3/blob/main/images/p1.png) 
+![image](https://github.com/Gary-Zhigang/IDS721-Project3/blob/main/images/p1.png) 
 
-*** S3 ***
+***S3:***
 
-![image](https://github.com/Gary-Zhigang/IDS721_Project3/blob/main/images/p2.png) 
+![image](https://github.com/Gary-Zhigang/IDS721-Project3/blob/main/images/p2.png) 
 
 
 ## General Process
